@@ -52,6 +52,7 @@
 
 ![image](https://github.com/doris112106/ML2018_410321156/blob/master/demo.mp4)
 
+
 #### 參考資料 #
 
 Single-Layer Neural Networks and Gradient Descent:
