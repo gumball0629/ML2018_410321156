@@ -48,6 +48,10 @@
 
 2.了解gradient descent rule的運作方式
 
+#### 影片 #
+
+
+
 #### 參考資料 #
 
 Single-Layer Neural Networks and Gradient Descent:
