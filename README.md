@@ -82,5 +82,3 @@ http://www.runoob.com/python/func-number-abs.html
 =======
 我會盡快解決這個問題並且完成作業
 
---------------------------
->>>>>>> c66adc211c1627d760a1b4efce36780981d5c437
