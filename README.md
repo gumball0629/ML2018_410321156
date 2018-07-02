@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 機器學習導論 HW1 #
 --------------------------
 ### Image Decryption by a Single-Layer Neural Network #
@@ -28,12 +29,24 @@
 3.我在python安裝opencv上出了問題
 
 這是我安裝後的結果，他說我已安裝
+=======
+### 機器學習導論 HW1 #
+
+--------------------------
+
+很抱歉我沒辦法如期完成作業
+我在python安裝opencv上出了問題
+
+這是我安裝後的結果
+他說我已安裝
+>>>>>>> c66adc211c1627d760a1b4efce36780981d5c437
 ![image](https://github.com/doris112106/ML2018_410321156/blob/master/1.PNG)
 
 但實際執行時卻說我沒有cv2的module
 
 ![image](https://github.com/doris112106/ML2018_410321156/blob/master/2.PNG)
 
+<<<<<<< HEAD
 最後使用 jupyter 解決此問題
 
 4.github的上傳問題
@@ -66,3 +79,8 @@ http://chu246.blogspot.com/2017/12/python.html
 https://www.jb51.net/article/127649.htm
 
 http://www.runoob.com/python/func-number-abs.html
+=======
+我會盡快解決這個問題並且完成作業
+
+--------------------------
+>>>>>>> c66adc211c1627d760a1b4efce36780981d5c437
