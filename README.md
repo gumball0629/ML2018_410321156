@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## 機器學習導論 HW1 #
 --------------------------
 ### Image Decryption by a Single-Layer Neural Network #
