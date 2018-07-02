@@ -39,14 +39,13 @@
 
 這是我安裝後的結果
 他說我已安裝
->>>>>>> c66adc211c1627d760a1b4efce36780981d5c437
+
 ![image](https://github.com/doris112106/ML2018_410321156/blob/master/1.PNG)
 
 但實際執行時卻說我沒有cv2的module
 
 ![image](https://github.com/doris112106/ML2018_410321156/blob/master/2.PNG)
 
-<<<<<<< HEAD
 最後使用 jupyter 解決此問題
 
 4.github的上傳問題
