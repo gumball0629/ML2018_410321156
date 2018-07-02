@@ -45,6 +45,9 @@
 
 ![image](https://github.com/doris112106/ML2018_410321156/blob/master/2.PNG)
 
+我會盡快解決這個問題並且完成作業
+
+
 最後使用 jupyter 解決此問題
 
 4.github的上傳問題
@@ -77,6 +80,5 @@ http://chu246.blogspot.com/2017/12/python.html
 https://www.jb51.net/article/127649.htm
 
 http://www.runoob.com/python/func-number-abs.html
-=======
-我會盡快解決這個問題並且完成作業
+
 
